@@ -1,0 +1,14 @@
+D:\1.1 IFSP - TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL\2º SEMESTRE\PRCA2 - PROGRAMAÇÃO DE COMPUTADORES II\ProjetosCSHARP\Tarefa 15.10\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\1.1 IFSP - TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL\2º SEMESTRE\PRCA2 - PROGRAMAÇÃO DE COMPUTADORES II\ProjetosCSHARP\Tarefa 15.10\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\1.1 IFSP - TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL\2º SEMESTRE\PRCA2 - PROGRAMAÇÃO DE COMPUTADORES II\ProjetosCSHARP\Tarefa 15.10\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\1.1 IFSP - TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL\2º SEMESTRE\PRCA2 - PROGRAMAÇÃO DE COMPUTADORES II\ProjetosCSHARP\Tarefa 15.10\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\1.1 IFSP - TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL\2º SEMESTRE\PRCA2 - PROGRAMAÇÃO DE COMPUTADORES II\ProjetosCSHARP\Tarefa 15.10\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\1.1 IFSP - TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL\2º SEMESTRE\PRCA2 - PROGRAMAÇÃO DE COMPUTADORES II\ProjetosCSHARP\Tarefa 15.10\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\1.1 IFSP - TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL\2º SEMESTRE\PRCA2 - PROGRAMAÇÃO DE COMPUTADORES II\ProjetosCSHARP\Tarefa 15.10\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+D:\1.1 IFSP - TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL\2º SEMESTRE\PRCA2 - PROGRAMAÇÃO DE COMPUTADORES II\ProjetosCSHARP\Tarefa 15.10\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.1 IFSP - TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL\2º SEMESTRE\PRCA2 - PROGRAMAÇÃO DE COMPUTADORES II\ProjetosCSHARP\Tarefa 15.10\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\1.1 IFSP - TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL\2º SEMESTRE\PRCA2 - PROGRAMAÇÃO DE COMPUTADORES II\ProjetosCSHARP\Tarefa 15.10\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\1.1 IFSP - TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL\2º SEMESTRE\PRCA2 - PROGRAMAÇÃO DE COMPUTADORES II\ProjetosCSHARP\Tarefa 15.10\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\1.1 IFSP - TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL\2º SEMESTRE\PRCA2 - PROGRAMAÇÃO DE COMPUTADORES II\ProjetosCSHARP\Tarefa 15.10\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\1.1 IFSP - TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL\2º SEMESTRE\PRCA2 - PROGRAMAÇÃO DE COMPUTADORES II\ProjetosCSHARP\Tarefa 15.10\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\1.1 IFSP - TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL\2º SEMESTRE\PRCA2 - PROGRAMAÇÃO DE COMPUTADORES II\ProjetosCSHARP\Tarefa 15.10\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
